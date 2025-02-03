@@ -21,7 +21,7 @@ body {
 }
 
 .fill {
-  color: Tomato;
+  background-color: tomato;
   height: 145px;
   width: 145px;
   cursor: pointer;
